@@ -1,3 +1,8 @@
+Projeto de listagem de tarefas, ainda em desenvolvimento, criei desde o UI e UX (FIGMA), até seus componentes;
+Atualmente ele lista as tarefas que estão em meu banco de dados (desenvolvendo a função de inserir, alterar e excluir);
+Componentes que podem te dar uma força em algum projeto: RenderIcons (renderiza icones do lucide react, sem precisar de imports diversos). 
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
