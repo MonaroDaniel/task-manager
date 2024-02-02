@@ -1,0 +1,28 @@
+.foucus>span {
+    bottom: 0;
+    color: var(--black-00);
+}
+
+.used>span {
+    bottom: 0;
+}
+
+.foucus>div {
+    border-color: var(--blue-01);
+}
+
+.hover>span {
+    color: var(--blue-01);
+}
+
+.hover>div {
+    border-color: var(--blue-01);
+}
+
+.disabled>span {
+    color: var(--gray-00);
+}
+
+.disabled>div {
+    color: var(--gray-01);
+}
